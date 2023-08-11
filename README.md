@@ -8,4 +8,16 @@ porosity ranges from 0.24 to 0.52.
 ## Citation
 This work has been published in JH. If you find this repository useful in your research, please consider citing the following papers:
 
+```
+@article{--,
+  author    = {Shaoyang Geng and
+              Shuo Zhai},
+  title     = {--},
+  journal   = {JH},
+  volume    = {318},
+  pages     = {103886},
+  issn      = {0004-3702},
+  year      = {2023},
+}
+```
 Paper link:
