@@ -6,15 +6,15 @@ porosity ranges from 0.24 to 0.52. The second includes 670 2D noisy porous media
 ## Citations
 If you are interested in our repository or our paper, please cite the following paper:
 
-    @article{GUPTA2024106115,
+    @article{GENG2024106177,
     title = {Swin transformer based transfer learning model for predicting porous media permeability from 2D images},
     journal = {Computers and Geotechnics},
     volume = {168},
-    pages = {106115},
+    pages = {106177},
     year = {2024},
     issn = {0266-352X},
-    doi = {},
-    url = {},
+    doi = {https://doi.org/10.1016/j.compgeo.2024.106177},
+    url = {https://www.sciencedirect.com/science/article/pii/S0266352X24001137},
     author = {Shaoyang Geng, Shuo Zhai, Chengyong Li},
     keywords = {Deep learning, Transfer learning, Permeability prediction, Swin transformer, Computer vision, Porous media}
     }
